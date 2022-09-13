@@ -1,0 +1,19 @@
+{
+  "ips": {
+    "generic":	["10.0.0.150", "10.0.0.151", "10.0.0.152", "10.0.0.153"]
+  },
+  "cache_domains": {
+    "blizzard":     "generic",
+    "epicgames":    "generic",
+	"frontier":    "generic",
+    "nintendo":     "generic",
+    "origin":       "generic",
+	"rockstar":    "generic",
+    "riot":         "generic",
+    "sony":         "generic",
+    "steam":        "generic",
+    "uplay":        "generic",
+	"xboxlive":        "generic",
+    "wsus":         "generic"
+  }
+}
