@@ -11,7 +11,7 @@ configuration which can be utilised with:
 
 ## Usage
 
-99-self-managed.conf to be put in "/etc/dnsmasq.d/99-self-managed.conf" for pihole
+move the files to /etc/dnsmasq.d/ that are generated
 
 1. Copy `config.example.json` to `config.json`.
 2. Modify `config.json` to include your Cacheserver's IP(s) and the CDNs you plan to cache.
