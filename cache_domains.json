@@ -23,6 +23,11 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
+			"name": "riot",
+			"description": "CDN for riot games",
+			"domain_files": ["riot.txt"]
+		},
+		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
